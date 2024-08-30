@@ -1,5 +1,5 @@
 {
-    "name": "keith-md",
+    "name": "CRIEBEBIE-MD",
     "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
     "logo": "https://telegra.ph/file/fbf3780a7259b21e99507.jpg",
     "keywords": ["keith-md", "keithtech", "Keith-Md"],
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Keith Tech",
+        "value": "BRIXTYN",
         "required": false
       },
   
@@ -26,7 +26,7 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃"
+        "value": "CRIEBEBIE-MD"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -102,25 +102,25 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254748387615"
+        "value": "234 913 683 7288"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0syQ3Yvck9YdStRd3AyUFlSM3NCbExQYUlPUVNWbnErck4xZ3JQU2VWdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTldyK2lSeDh5ak1WUk1sV0RDUXcvNmdFVEdlakNxMmNzendLWCt0ZjJDST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNQVRMY1JIb2VMQ2UzWWJtekw5c1c3OU1CWFptUExFTUROclo4b0swYWxFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIzV21aaGo4OGZOY1N4Y1NnaHZ5QWU4SFVzR2JBTm5VRXAzVHlHT1I3RW1jPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVNUkxzOHRKWDhLVVA5TEMrN1V5MmhaWnZwOS9XcWx0ejFnWnB1NUxjMHc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlZIMUk5NGhaUG1PQ3pWVU5UUFVXdGhqUC9wTC9XcnFXTnVrb3ZqUEI3MmM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib01ZMW9vQVJhdmRJZnR1b3BmdTNlQ3h2UHdNNDJOL2JVMFg1WTZTSEsyUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieCt3L3JlNkE4TG1KUE9HVm50YlNHVGpPZWxXVW51TWpQTU1TYVhSalBXMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlRKOGw0cFNRMEJqeU0zaytQTFBjMFNHdkpsZVhCa1IvUzUrSTJUQnlJdGdra0FZdzlLWWtxYUxaOVJ4MDczQ2FxMFBscW9aTG9WaC81SE9JMktUZGhnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTcsImFkdlNlY3JldEtleSI6Iis2LzNFd2VxQ0c5aEZkMDFVbTZvUnhJY054bFlDeXYxZlpMVXIvUThuTXM9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InBFRDR0UmhaU3U2cFF6NVduNzhnamciLCJwaG9uZUlkIjoiM2JiNDlhYjMtMzBhMS00YmEyLTk0NWQtZTRmOTczZTk4YTZhIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImQ3cVpnVjlLOXFZRkU1cnliME0yNmJsa05YST0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIzY1JxaVAxdWc5RnZFdk1BdTdPSEhOZVlpa3M9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiQkJQTDZUUk4iLCJtZSI6eyJpZCI6IjIzNDkxMzY4MzcyODg6NUBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDS1hTZ05zR0VPVFN5TFlHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoieWtBS09YMEFndHNqNlMzNWdLT2NkUE53NUVVR3BvcFF6N2dtTVlkNEJEOD0iLCJhY2NvdW50U2lnbmF0dXJlIjoiNUdvR3dERFV4U1Fwa1V3ZGtrNGdzM2o2Q0w5UFFRdm9GeGNNR1BObVNDODRjMGY0a3dldHFsc1ZPeThrbXh1WFdxU0FFa1hUbWt4aUJyL2ZvbzJwQWc9PSIsImRldmljZVNpZ25hdHVyZSI6ImVCZ1dEam9RRTAvUW1GcUtpL2s0ZlBBNjRueEg2VTh0K1JMVllVQktjMnNYa2RleWw1aUZMYmp5RUxvTkdJRmpqQWVkZlRNNG9XRUVCVVdPYnQzS2lRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM0OTEzNjgzNzI4ODo1QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmNwQUNqbDlBSUxiSStrdCtZQ2puSFR6Y09SRkJxYUtVTSs0SmpHSGVBUS8ifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjUwNDkyMDF9"
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "private"
+        "value": "public"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "keith md",
-        "required": false
+        "value": "CRIEBEBIE-MD",
+        "required": true
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "keith tech",
-        "required": false
+        "value": "criebebie",
+        "required": true
       }
     },
     "addons": [{ "plan": "heroku-postgresql" }],
