@@ -10,7 +10,7 @@
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
         "value": "BRIXTYN",
-        "required": false
+        "required": true
       },
   
       "WELCOME": {
@@ -25,7 +25,7 @@
       },
       "BOT_NAME": {
         "description": "Your Bot Name",
-        "required": false,
+        "required": true,
         "value": "CRIEBEBIE-MD"
       },
       "TZ": {
@@ -36,7 +36,7 @@
          "SUDO": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254748387615"
+        "value": "2349078722293"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
